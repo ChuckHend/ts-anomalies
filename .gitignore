@@ -1,0 +1,7 @@
+Presentation/*
+Data/*
+video/*
+.ipynb_checkpoints
+.Rhistory
+**/*.zip
+**/*.accdb
